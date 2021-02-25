@@ -1,0 +1,1352 @@
+{
+    "Ag": {
+        "pao": {
+            "filename": "Ag7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "f85e19e791131c761925c9afc3bdeb71"
+        },
+        "vps": {
+            "filename": "Ag_PBE19.vps",
+            "md5": "846260dda4661aa92e23346fe2453504"
+        },
+        "valence": 17
+    },
+    "Al": {
+        "pao": {
+            "filename": "Al7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                2,
+                2,
+                1,
+                0
+            ],
+            "md5": "dd4304b182380ad3078837c7bd1ffed2"
+        },
+        "vps": {
+            "filename": "Al_PBE19.vps",
+            "md5": "75c46dfb670f1feca5f7df2467ea7af2"
+        },
+        "valence": 3
+    },
+    "Ar": {
+        "pao": {
+            "filename": "Ar9.0.pao",
+            "rcut": 9.0,
+            "orbital_configuration": [
+                2,
+                2,
+                1,
+                1
+            ],
+            "md5": "072a9ba6e909cbcae1f933578a385eaa"
+        },
+        "vps": {
+            "filename": "Ar_PBE19.vps",
+            "md5": "8b3566ae8b6b27c1818a9aebffc6940f"
+        },
+        "valence": 8
+    },
+    "As": {
+        "pao": {
+            "filename": "As7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "96cdfff2b3bd7ce07b49c453596644d3"
+        },
+        "vps": {
+            "filename": "As_PBE19.vps",
+            "md5": "81f3f51dc70f86477965932a6a4c434c"
+        },
+        "valence": 15
+    },
+    "Au": {
+        "pao": {
+            "filename": "Au7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "e2110505aeeccd960f5725a2f9f668fa"
+        },
+        "vps": {
+            "filename": "Au_PBE19.vps",
+            "md5": "43b885071cda6ae7eac5fd9f8777bc32"
+        },
+        "valence": 17
+    },
+    "B": {
+        "pao": {
+            "filename": "B7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                2,
+                2,
+                1,
+                0
+            ],
+            "md5": "3b00682d49914af8d3aaeaadb7cb650f"
+        },
+        "vps": {
+            "filename": "B_PBE19.vps",
+            "md5": "7f3268ef113ec71f698aff29a96d2a60"
+        },
+        "valence": 3
+    },
+    "Ba": {
+        "pao": {
+            "filename": "Ba10.0.pao",
+            "rcut": 10.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "5489dc72f4a517d20c8eca5ee5452fa7"
+        },
+        "vps": {
+            "filename": "Ba_PBE19.vps",
+            "md5": "29caadac9161769fd69a5be14a8feebf"
+        },
+        "valence": 10
+    },
+    "Be": {
+        "pao": {
+            "filename": "Be7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                2,
+                2,
+                0,
+                0
+            ],
+            "md5": "d553aba7ae21a9233f18279d62a94f84"
+        },
+        "vps": {
+            "filename": "Be_PBE19.vps",
+            "md5": "2cc5241a3365d93c8621a5101dcb86e3"
+        },
+        "valence": 2
+    },
+    "Bi": {
+        "pao": {
+            "filename": "Bi8.0.pao",
+            "rcut": 8.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "d5502d5fcc53a5195e4a6f4633e5c93f"
+        },
+        "vps": {
+            "filename": "Bi_PBE19.vps",
+            "md5": "8fbd65ba9a2fd3ad1405102e1b70e8a6"
+        },
+        "valence": 15
+    },
+    "Br": {
+        "pao": {
+            "filename": "Br7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "ec4af3e7c01d07f53a2df280a87fdc90"
+        },
+        "vps": {
+            "filename": "Br_PBE19.vps",
+            "md5": "62ebc4623a105b3e2f04a6964db44290"
+        },
+        "valence": 7
+    },
+    "C": {
+        "pao": {
+            "filename": "C6.0.pao",
+            "rcut": 6.0,
+            "orbital_configuration": [
+                2,
+                2,
+                1,
+                0
+            ],
+            "md5": "6ed3c840e9d6741ce3897601ee8d1174"
+        },
+        "vps": {
+            "filename": "C_PBE19.vps",
+            "md5": "e1b5cb3d2c76196244d590512d362558"
+        },
+        "valence": 4
+    },
+    "Ca": {
+        "pao": {
+            "filename": "Ca9.0.pao",
+            "rcut": 9.0,
+            "orbital_configuration": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "md5": "b1e102cb482b44cb480a518a798fb49d"
+        },
+        "vps": {
+            "filename": "Ca_PBE19.vps",
+            "md5": "e650a1b7f5a858bffe1b3b3d6d178294"
+        },
+        "valence": 10
+    },
+    "Cd": {
+        "pao": {
+            "filename": "Cd7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "b0891d7da177b39b519a7c063adf2025"
+        },
+        "vps": {
+            "filename": "Cd_PBE19.vps",
+            "md5": "0f52e768686b1f98025275219bc6246a"
+        },
+        "valence": 12
+    },
+    "Ce": {
+        "pao": {
+            "filename": "Ce8.0.pao",
+            "rcut": 8.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "8561a214ea5b449e888242914ed327f3"
+        },
+        "vps": {
+            "filename": "Ce_PBE19.vps",
+            "md5": "563cfd2fc67dff51b6b9120fd2c4ecc0"
+        },
+        "valence": 12
+    },
+    "Cl": {
+        "pao": {
+            "filename": "Cl7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                2,
+                2,
+                1,
+                1
+            ],
+            "md5": "06c80f1e91b7ded39fd8f54f4465f19b"
+        },
+        "vps": {
+            "filename": "Cl_PBE19.vps",
+            "md5": "9f7c42e9986d716e66a092fbbedade48"
+        },
+        "valence": 7
+    },
+    "Co": {
+        "pao": {
+            "filename": "Co6.0S.pao",
+            "rcut": 6.0,
+            "orbital_configuration": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "md5": "8d799bea985213cb4ab3f67ee95a8aba"
+        },
+        "vps": {
+            "filename": "Co_PBE19S.vps",
+            "md5": "f9edaac9ee661946d9c1989b98eb9b2e"
+        },
+        "valence": 15
+    },
+    "Cr": {
+        "pao": {
+            "filename": "Cr6.0.pao",
+            "rcut": 6.0,
+            "orbital_configuration": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "md5": "2d01ed566c3835f293d497a103f62a2d"
+        },
+        "vps": {
+            "filename": "Cr_PBE19.vps",
+            "md5": "c3794390d91a42ae1081b9351417e4b1"
+        },
+        "valence": 14
+    },
+    "Cs": {
+        "pao": {
+            "filename": "Cs12.0.pao",
+            "rcut": 12.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "99e345a05f9c54b2d97ca098ef92d354"
+        },
+        "vps": {
+            "filename": "Cs_PBE19.vps",
+            "md5": "c1429a0de1ada3b5df06dd752c208fbe"
+        },
+        "valence": 9
+    },
+    "Cu": {
+        "pao": {
+            "filename": "Cu6.0S.pao",
+            "rcut": 6.0,
+            "orbital_configuration": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "md5": "1460998976149e20e3abc16380af11aa"
+        },
+        "vps": {
+            "filename": "Cu_PBE19S.vps",
+            "md5": "2b37f860dded1d40829ea0d63110b0f3"
+        },
+        "valence": 11
+    },
+    "Dy": {
+        "pao": {
+            "filename": "Dy8.0.pao",
+            "rcut": 8.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "cc86b6d88e2d18459799cf4ad83a84aa"
+        },
+        "vps": {
+            "filename": "Dy_PBE19.vps",
+            "md5": "1bd1b08dcb5c90013aa2947ff2f579c3"
+        },
+        "valence": 20
+    },
+    "F": {
+        "pao": {
+            "filename": "F6.0.pao",
+            "rcut": 6.0,
+            "orbital_configuration": [
+                2,
+                2,
+                1,
+                0
+            ],
+            "md5": "f883a819d6d9072fd4ebc93d10413e7b"
+        },
+        "vps": {
+            "filename": "F_PBE19.vps",
+            "md5": "d55e5e64e80710faef8dfdd73b20181b"
+        },
+        "valence": 7
+    },
+    "Fe": {
+        "pao": {
+            "filename": "Fe6.0S.pao",
+            "rcut": 6.0,
+            "orbital_configuration": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "md5": "bd8c3622119641b4350059ba29b0e734"
+        },
+        "vps": {
+            "filename": "Fe_PBE19S.vps",
+            "md5": "7cf33b7c19e8f3e5c15dc1109025a6e1"
+        },
+        "valence": 14
+    },
+    "Ga": {
+        "pao": {
+            "filename": "Ga7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "49564527cbc6339ffbf2e2ed24b8667d"
+        },
+        "vps": {
+            "filename": "Ga_PBE19.vps",
+            "md5": "81fdb5b8fd79a4fcf23ea199592bd25c"
+        },
+        "valence": 13
+    },
+    "Ge": {
+        "pao": {
+            "filename": "Ge7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "1ea4af1d611aa21c73a45974b802240d"
+        },
+        "vps": {
+            "filename": "Ge_PBE19.vps",
+            "md5": "901005b7462c772bfae91da6c3c5390c"
+        },
+        "valence": 4
+    },
+    "H": {
+        "pao": {
+            "filename": "H6.0.pao",
+            "rcut": 6.0,
+            "orbital_configuration": [
+                2,
+                1,
+                0,
+                0
+            ],
+            "md5": "827dd769a941830079b87afe957b319c"
+        },
+        "vps": {
+            "filename": "H_PBE19.vps",
+            "md5": "4b5c0191ab79db8c30d0f67ccea90401"
+        },
+        "valence": 1
+    },
+    "He": {
+        "pao": {
+            "filename": "He8.0.pao",
+            "rcut": 8.0,
+            "orbital_configuration": [
+                2,
+                1,
+                0,
+                0
+            ],
+            "md5": "7c20fa14a0a74ccc9ee54fab7cab1fa9"
+        },
+        "vps": {
+            "filename": "He_PBE19.vps",
+            "md5": "d905eb8f016feabdf82ca6c131590743"
+        },
+        "valence": 2
+    },
+    "Hf": {
+        "pao": {
+            "filename": "Hf9.0.pao",
+            "rcut": 9.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "f8685257504f4cf6fd6353aab9a2315d"
+        },
+        "vps": {
+            "filename": "Hf_PBE19.vps",
+            "md5": "ed8cdb392d240cc38652d12c3c6cf007"
+        },
+        "valence": 12
+    },
+    "Hg": {
+        "pao": {
+            "filename": "Hg8.0.pao",
+            "rcut": 8.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "d2055a15af2e3698d3a4396c89fdb188"
+        },
+        "vps": {
+            "filename": "Hg_PBE19.vps",
+            "md5": "3420bf791de00b3042d9229c1882fc76"
+        },
+        "valence": 18
+    },
+    "Ho": {
+        "pao": {
+            "filename": "Ho8.0.pao",
+            "rcut": 8.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "53c576aae1bce42b4885234bc1e47337"
+        },
+        "vps": {
+            "filename": "Ho_PBE19.vps",
+            "md5": "bfdc770e06a076469c0c358e17836ba8"
+        },
+        "valence": 21
+    },
+    "I": {
+        "pao": {
+            "filename": "I7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "164bc9640f94d39e51eaa34d04614261"
+        },
+        "vps": {
+            "filename": "I_PBE19.vps",
+            "md5": "0e6da3b2acd814bda3c54569457bfb5a"
+        },
+        "valence": 7
+    },
+    "In": {
+        "pao": {
+            "filename": "In7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "2843495ac330d599b0080c08c73d5a82"
+        },
+        "vps": {
+            "filename": "In_PBE19.vps",
+            "md5": "3a99b42bbf2aeab4a7ce9e9ea9dfd227"
+        },
+        "valence": 13
+    },
+    "Ir": {
+        "pao": {
+            "filename": "Ir7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "eb72f3c70cc6d1c4baa6717ec921a8a8"
+        },
+        "vps": {
+            "filename": "Ir_PBE19.vps",
+            "md5": "778f426237c1131272e5728d1b5d0dc8"
+        },
+        "valence": 15
+    },
+    "K": {
+        "pao": {
+            "filename": "K10.0.pao",
+            "rcut": 10.0,
+            "orbital_configuration": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "md5": "fb39dc38a2068c7c21a8f5f8dd5044a4"
+        },
+        "vps": {
+            "filename": "K_PBE19.vps",
+            "md5": "8a9e93e662ccceceb5719348c606a8ed"
+        },
+        "valence": 9
+    },
+    "Kr": {
+        "pao": {
+            "filename": "Kr10.0.pao",
+            "rcut": 10.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "b06de4cceda635a7faebd341dcc27aaa"
+        },
+        "vps": {
+            "filename": "Kr_PBE19.vps",
+            "md5": "7353e3edda21b91dda1ce2674d50439f"
+        },
+        "valence": 8
+    },
+    "La": {
+        "pao": {
+            "filename": "La8.0.pao",
+            "rcut": 8.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "34302dca05a99757756de53411cac0ba"
+        },
+        "vps": {
+            "filename": "La_PBE19.vps",
+            "md5": "eb209ad98237f842a0bcf4a60c7d9f39"
+        },
+        "valence": 11
+    },
+    "Li": {
+        "pao": {
+            "filename": "Li8.0.pao",
+            "rcut": 8.0,
+            "orbital_configuration": [
+                3,
+                2,
+                0,
+                0
+            ],
+            "md5": "a36d773679d252c55873b5cd4cde70b1"
+        },
+        "vps": {
+            "filename": "Li_PBE19.vps",
+            "md5": "dd87d93aedf58b2b77bc37f5bbbc6cfc"
+        },
+        "valence": 3
+    },
+    "Lu": {
+        "pao": {
+            "filename": "Lu8.0.pao",
+            "rcut": 8.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "1b9e081341eea0f61e3692b963818ec3"
+        },
+        "vps": {
+            "filename": "Lu_PBE19.vps",
+            "md5": "e6c29e16f84db1eaa3dbb5324a150ccf"
+        },
+        "valence": 11
+    },
+    "Mg": {
+        "pao": {
+            "filename": "Mg9.0.pao",
+            "rcut": 9.0,
+            "orbital_configuration": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "md5": "38e73bcbb47d34ba75cc92bb37fe45b4"
+        },
+        "vps": {
+            "filename": "Mg_PBE19.vps",
+            "md5": "c0108d13bbca155bdc5eaf8fcf554544"
+        },
+        "valence": 8
+    },
+    "Mn": {
+        "pao": {
+            "filename": "Mn6.0.pao",
+            "rcut": 6.0,
+            "orbital_configuration": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "md5": "f0442564d80d65f64a887ce94a0bd2d7"
+        },
+        "vps": {
+            "filename": "Mn_PBE19.vps",
+            "md5": "91eed95dd0e837af2dbc7db41c217b89"
+        },
+        "valence": 15
+    },
+    "Mo": {
+        "pao": {
+            "filename": "Mo7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "6d09bfb2a0435708f125906ecbeb1162"
+        },
+        "vps": {
+            "filename": "Mo_PBE19.vps",
+            "md5": "32150002b96f6a68587c3e8dcc3bea80"
+        },
+        "valence": 14
+    },
+    "N": {
+        "pao": {
+            "filename": "N6.0.pao",
+            "rcut": 6.0,
+            "orbital_configuration": [
+                2,
+                2,
+                1,
+                0
+            ],
+            "md5": "c160b595ac16324c7e60020566a7b2c5"
+        },
+        "vps": {
+            "filename": "N_PBE19.vps",
+            "md5": "72c1894f58628ac28ffe90ac07704c64"
+        },
+        "valence": 5
+    },
+    "Na": {
+        "pao": {
+            "filename": "Na9.0.pao",
+            "rcut": 9.0,
+            "orbital_configuration": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "md5": "d6d82e426690be98a280b72549c7c2b4"
+        },
+        "vps": {
+            "filename": "Na_PBE19.vps",
+            "md5": "006d689a63d1907ca187a18732a7c162"
+        },
+        "valence": 9
+    },
+    "Nb": {
+        "pao": {
+            "filename": "Nb7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "c63f6f33fe97eb1626dd375fac963161"
+        },
+        "vps": {
+            "filename": "Nb_PBE19.vps",
+            "md5": "b9f3e349e7b30257eb1224c0915869c0"
+        },
+        "valence": 13
+    },
+    "Nd": {
+        "pao": {
+            "filename": "Nd8.0.pao",
+            "rcut": 8.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "c402d07519e984e8d3f16990b5ba35f2"
+        },
+        "vps": {
+            "filename": "Nd_PBE19.vps",
+            "md5": "e0fa8070dec3b78ed8a14a40488b5c7a"
+        },
+        "valence": 14
+    },
+    "Ne": {
+        "pao": {
+            "filename": "Ne9.0.pao",
+            "rcut": 9.0,
+            "orbital_configuration": [
+                2,
+                2,
+                1,
+                0
+            ],
+            "md5": "f920c1b30f6c979cf9b115c047813173"
+        },
+        "vps": {
+            "filename": "Ne_PBE19.vps",
+            "md5": "463037a6ae5fd6509e62095a19ae8f05"
+        },
+        "valence": 8
+    },
+    "Ni": {
+        "pao": {
+            "filename": "Ni6.0S.pao",
+            "rcut": 6.0,
+            "orbital_configuration": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "md5": "7db7c86b369638977f9e66fa0a25fc42"
+        },
+        "vps": {
+            "filename": "Ni_PBE19S.vps",
+            "md5": "b543d22f1b55974592960ced8238c505"
+        },
+        "valence": 16
+    },
+    "O": {
+        "pao": {
+            "filename": "O6.0.pao",
+            "rcut": 6.0,
+            "orbital_configuration": [
+                2,
+                2,
+                1,
+                0
+            ],
+            "md5": "03ecf394090656424877f483d0899f46"
+        },
+        "vps": {
+            "filename": "O_PBE19.vps",
+            "md5": "09d9652bb81e2c97b1195fadf5237cb6"
+        },
+        "valence": 6
+    },
+    "Os": {
+        "pao": {
+            "filename": "Os7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "e74d502135e06ab43ed56549c3ea3521"
+        },
+        "vps": {
+            "filename": "Os_PBE19.vps",
+            "md5": "b1d5e8a008954f6ad3598d31be64f086"
+        },
+        "valence": 14
+    },
+    "P": {
+        "pao": {
+            "filename": "P7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                2,
+                2,
+                1,
+                1
+            ],
+            "md5": "33c83a4d368472e94fa585f3b5af1eee"
+        },
+        "vps": {
+            "filename": "P_PBE19.vps",
+            "md5": "f6ba71fd8fa9fd7fbc5628eb3f022f33"
+        },
+        "valence": 5
+    },
+    "Pb": {
+        "pao": {
+            "filename": "Pb8.0.pao",
+            "rcut": 8.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "b0912c498a1267f46555d94f130a945e"
+        },
+        "vps": {
+            "filename": "Pb_PBE19.vps",
+            "md5": "7d8bea95620b0d3db29b6454f2edc99b"
+        },
+        "valence": 14
+    },
+    "Pd": {
+        "pao": {
+            "filename": "Pd7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "756f94c07644cc2ab834f7ad6f034f46"
+        },
+        "vps": {
+            "filename": "Pd_PBE19.vps",
+            "md5": "3823eb35e9c549671fb34300201e1cdb"
+        },
+        "valence": 16
+    },
+    "Pt": {
+        "pao": {
+            "filename": "Pt7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "9aaf916297c372cdd371930dac8209f1"
+        },
+        "vps": {
+            "filename": "Pt_PBE19.vps",
+            "md5": "9fde2d7393d2e8bea53ac76758e6dcdf"
+        },
+        "valence": 16
+    },
+    "Rb": {
+        "pao": {
+            "filename": "Rb11.0.pao",
+            "rcut": 11.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "b1929ef94d16beab469692ef8dd3fee5"
+        },
+        "vps": {
+            "filename": "Rb_PBE19.vps",
+            "md5": "2dcce75d8e79f749e75be6a3823d43db"
+        },
+        "valence": 9
+    },
+    "Re": {
+        "pao": {
+            "filename": "Re7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "dbf58b2022d7ec4a185b57e9711d22ae"
+        },
+        "vps": {
+            "filename": "Re_PBE19.vps",
+            "md5": "68062c91c6ffd0cf8572d26be2e2712d"
+        },
+        "valence": 15
+    },
+    "Rh": {
+        "pao": {
+            "filename": "Rh7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "92d07a8a67ab688da1c3fac9d527b8b3"
+        },
+        "vps": {
+            "filename": "Rh_PBE19.vps",
+            "md5": "1ec30e353dc73417dc63b72cfaa254fc"
+        },
+        "valence": 15
+    },
+    "Ru": {
+        "pao": {
+            "filename": "Ru7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "b2d8c3f91fb9ef4e3fb5aa153c337458"
+        },
+        "vps": {
+            "filename": "Ru_PBE19.vps",
+            "md5": "75bf72c646743f38be01ece757f01e4f"
+        },
+        "valence": 14
+    },
+    "S": {
+        "pao": {
+            "filename": "S7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                2,
+                2,
+                1,
+                1
+            ],
+            "md5": "d4a58efef7b05f1643ed7b832acb5fd9"
+        },
+        "vps": {
+            "filename": "S_PBE19.vps",
+            "md5": "a156f5fdfb9fd0bd1f3e00b82185087b"
+        },
+        "valence": 6
+    },
+    "Sb": {
+        "pao": {
+            "filename": "Sb7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "7204605180e1a46932a337285198df20"
+        },
+        "vps": {
+            "filename": "Sb_PBE19.vps",
+            "md5": "344f8f369ab9d9fb1bcaf05a59db5e6e"
+        },
+        "valence": 15
+    },
+    "Sc": {
+        "pao": {
+            "filename": "Sc9.0.pao",
+            "rcut": 9.0,
+            "orbital_configuration": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "md5": "05cae8b68c6bbb66850e8e63cd5b9666"
+        },
+        "vps": {
+            "filename": "Sc_PBE19.vps",
+            "md5": "9107748c1ab66a149138de1dc9d5d917"
+        },
+        "valence": 11
+    },
+    "Se": {
+        "pao": {
+            "filename": "Se7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "e275c8047e5dcd4738acc99cd2468bc0"
+        },
+        "vps": {
+            "filename": "Se_PBE19.vps",
+            "md5": "d6b44841e9164bb479b1727348a85705"
+        },
+        "valence": 6
+    },
+    "Si": {
+        "pao": {
+            "filename": "Si7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                2,
+                2,
+                1,
+                0
+            ],
+            "md5": "fae522a5fb3af57e382fdbac78f56156"
+        },
+        "vps": {
+            "filename": "Si_PBE19.vps",
+            "md5": "3604c64b0897c88a23e2ffffd75a6f6e"
+        },
+        "valence": 4
+    },
+    "Sm": {
+        "pao": {
+            "filename": "Sm8.0.pao",
+            "rcut": 8.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "e4c211a95e76520243f49773e46a7bc2"
+        },
+        "vps": {
+            "filename": "Sm_PBE19.vps",
+            "md5": "694438220718ed35afc21449c38a62ad"
+        },
+        "valence": 16
+    },
+    "Sn": {
+        "pao": {
+            "filename": "Sn7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "971676832044fafd85a17c6a8483d9c4"
+        },
+        "vps": {
+            "filename": "Sn_PBE19.vps",
+            "md5": "1cd95cf86f2de98d0d5ecab960435f49"
+        },
+        "valence": 14
+    },
+    "Sr": {
+        "pao": {
+            "filename": "Sr10.0.pao",
+            "rcut": 10.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "9855ccc42c6b618f6589e10a7625d242"
+        },
+        "vps": {
+            "filename": "Sr_PBE19.vps",
+            "md5": "dd80ab352858b12c021fc1f104f992ec"
+        },
+        "valence": 10
+    },
+    "Ta": {
+        "pao": {
+            "filename": "Ta7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "428edbc3bc94a1985005581ce4c56d4b"
+        },
+        "vps": {
+            "filename": "Ta_PBE19.vps",
+            "md5": "7d8423395fc86c8c757dc05a66eea858"
+        },
+        "valence": 13
+    },
+    "Tc": {
+        "pao": {
+            "filename": "Tc7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "0b32b4696b69b60f6d1eeb6e4565f69d"
+        },
+        "vps": {
+            "filename": "Tc_PBE19.vps",
+            "md5": "d0adbd946a0ad5a82d73ed45156f0940"
+        },
+        "valence": 15
+    },
+    "Te": {
+        "pao": {
+            "filename": "Te7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "47ce02620ebc7d56d87bff42933a7eb3"
+        },
+        "vps": {
+            "filename": "Te_PBE19.vps",
+            "md5": "b9bc309edde316517c999fe523742a13"
+        },
+        "valence": 16
+    },
+    "Ti": {
+        "pao": {
+            "filename": "Ti7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "md5": "1f4fb765e7c696c3fe0ea8d0cf8e09bc"
+        },
+        "vps": {
+            "filename": "Ti_PBE19.vps",
+            "md5": "58fff7ba87358473078ae35b9c1363af"
+        },
+        "valence": 12
+    },
+    "Tl": {
+        "pao": {
+            "filename": "Tl8.0.pao",
+            "rcut": 8.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "81b200d62ba04e77c5be3212c70ee6d9"
+        },
+        "vps": {
+            "filename": "Tl_PBE19.vps",
+            "md5": "cc537a5f460346729bcbdeb1b2e356dd"
+        },
+        "valence": 19
+    },
+    "V": {
+        "pao": {
+            "filename": "V6.0.pao",
+            "rcut": 6.0,
+            "orbital_configuration": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "md5": "60d2da858e1c6bc34f2d2e83e51b299f"
+        },
+        "vps": {
+            "filename": "V_PBE19.vps",
+            "md5": "825e2566e59e92adedba279fc9654e56"
+        },
+        "valence": 13
+    },
+    "W": {
+        "pao": {
+            "filename": "W7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                1
+            ],
+            "md5": "b3d86baf160eb909dc03cee4285a9409"
+        },
+        "vps": {
+            "filename": "W_PBE19.vps",
+            "md5": "12ffa881925352e117a855d3ddb9ac26"
+        },
+        "valence": 12
+    },
+    "Xe": {
+        "pao": {
+            "filename": "Xe11.0.pao",
+            "rcut": 11.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "40e42610928d67ed409dbdf9e2968fa5"
+        },
+        "vps": {
+            "filename": "Xe_PBE19.vps",
+            "md5": "abb3ca076c0dde2d6d26148951df117e"
+        },
+        "valence": 8
+    },
+    "Y": {
+        "pao": {
+            "filename": "Y10.0.pao",
+            "rcut": 10.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "b3832658de881935b25c8635e7ba3723"
+        },
+        "vps": {
+            "filename": "Y_PBE19.vps",
+            "md5": "daedc67187405e9ae107d3194d5035d9"
+        },
+        "valence": 11
+    },
+    "Zn": {
+        "pao": {
+            "filename": "Zn6.0S.pao",
+            "rcut": 6.0,
+            "orbital_configuration": [
+                3,
+                2,
+                1,
+                0
+            ],
+            "md5": "d381a4075362511b6fc0dd504ce0ede4"
+        },
+        "vps": {
+            "filename": "Zn_PBE19S.vps",
+            "md5": "fc6f295022219171e5c927992c6e6ab1"
+        },
+        "valence": 12
+    },
+    "Zr": {
+        "pao": {
+            "filename": "Zr7.0.pao",
+            "rcut": 7.0,
+            "orbital_configuration": [
+                3,
+                2,
+                2,
+                0
+            ],
+            "md5": "8d33a37e51ba2026746a59b85bf789af"
+        },
+        "vps": {
+            "filename": "Zr_PBE19.vps",
+            "md5": "d0ef06d7eae8192d664fdee66ef94f60"
+        },
+        "valence": 12
+    }
+}

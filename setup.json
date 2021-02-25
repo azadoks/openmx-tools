@@ -1,0 +1,14 @@
+{
+    "name": "openmx-tools",
+    "author": "Austin Zadoks",
+    "author_email": "austin.zadoks@epfl.ch",
+    "description": "Tools for working with OpenMX",
+    "url": "https://github.com/zooks97/openmx-tools",
+    "version": "0.1.0",
+    "include_package_data": true,
+    "python_requires": ">=3.6",
+    "install_requires": [
+        "jsonschema>=3.0.0",
+        "numpy"
+    ]
+}
